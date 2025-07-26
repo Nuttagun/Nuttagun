@@ -7,7 +7,7 @@
 - 🎓 I'm a **4th-year Computer Engineering student** at Suranaree University of Technology  
 - 💻 Skilled in **Frontend & Backend development**, API design, and UX/UI  
 - 🌱 Currently learning **Cloud, DevOps, and advanced AI tools**  
-- ⚡ Fun fact: I love coding, making TikTok videos, and eating *krapao moo krob* 😋
+- ⚡ Fun fact: I love coding late at night, making TikTok videos, and eating *krapao moo krob* 😋
 
 ---
 
@@ -57,9 +57,10 @@
 ---
 
 ### 🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/nuttagun.samanjai/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nuttagunsamanjai@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
 ---
 
